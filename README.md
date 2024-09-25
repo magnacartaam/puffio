@@ -4,9 +4,10 @@ A vape device with user-configurable consumption limits and control, along with 
 
 How it works: the vape can be used as a regular vape device, but it will be actively promoted alongside a Web3 application, where users can set a constant consumption limit or enable a mode for gradually reducing their intake. A user who purchases the vape and installs the application can receive rewards in the form of cryptocurrency tokens or NFTs, which are deposited into their wallet for further activities. They will continue to earn these rewards periodically, as long as they maintain an active smoking limit. Additionally, non-smokers can participate in the app’s activities without purchasing the vape, using “virtual smoking” instead of real smoking.
 
-![raw2puffio](https://github.com/user-attachments/assets/91f43882-8ce6-4fe4-8cd1-c792ce91e353)
+![diagramm drawio](https://github.com/user-attachments/assets/dc215b5d-d727-4879-815d-97b66c36522b)
 
 # Entities:
+
 # Database Schema Entity Attribute Descriptions
 
 ## 1. User
